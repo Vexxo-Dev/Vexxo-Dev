@@ -12,7 +12,7 @@
 
 I'm a passionate full-stack developer who loves building clean, meaningful software across the web stack.
 
-- 🏆 **1st Place** — Ramadan Al-Athar Open Source Competition (ITQAN) — contributed Cache API features to the Open Tarteel Quran Audio Player
+- 🏆 **1st Place** — Ramadan Al-Athar Open Source Competition (ITQAN) — contributed for +10 Projects
 - 🔭 Currently building Websites and Mobile Applications to solve your Problem in your work.
 - 🌱 Always learning — currently deep in React, React Native, Laravel, and Flutter.
 
