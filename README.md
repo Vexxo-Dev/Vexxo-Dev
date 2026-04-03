@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## About Me
 
 I'm a passionate full-stack developer who loves building clean, meaningful software across the web stack.
