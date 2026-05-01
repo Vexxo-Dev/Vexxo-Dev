@@ -23,7 +23,7 @@ I'm a passionate full-stack developer who loves building clean, meaningful softw
 | **IEEE MET CS** | Flutter Developer |
 | **CAT Reloaded** | PR & English Trainer |
 | **CIS** | Backend Laravel Developer & Logistics |
-| **ICPC Mans** | Problem Solving Training Lvl 0 & 1 |
+| **ICPC Mans** | Problem Solving Training Lvl 0 |
  
 ---
 
