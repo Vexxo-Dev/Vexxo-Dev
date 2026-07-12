@@ -1,4 +1,5 @@
 # Hi, I'm Yassin 👋
+```
 ----:::-===========+======++++++++++++++   Yassin@Vexxo
 ===============++++++++++++++***++++++++   ─────────────────────────────────────
 ++++++++=====++*####****+++++++*++++++++   OS: ................ Full-Stack Developer
@@ -22,7 +23,7 @@
 ######*+=:. ..==++*****+=---#@%%%%#*+--=   Website: ............. vexxo.tech
 #*+-:.       .-===+**+++=--:-+*++++=====   Studio: .............. alter-pixel.com
 .             :-==++++===--:::::...:++++   GitHub: ............... github.com/Vexxo-Dev```
-
+```
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Vexxo-vexxo.tech-6d28d9?style=for-the-badge)](https://vexxo.dev)
