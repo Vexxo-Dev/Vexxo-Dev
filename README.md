@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="left">
+
+[![Typing SVG](https://komarev.com/ghpvc/?username=Vexxo-Dev)](https://git.io/typing-svg)
+
+</div>
+
 ## About Me
 
 I'm a passionate full-stack developer who loves building clean, meaningful software across the web stack.
