@@ -21,17 +21,6 @@ I'm a passionate full-stack developer who loves building clean, meaningful softw
 - 🌱 Always learning — currently deep in React, React Native, Laravel, and Flutter.
 
 ---
- 
-## 🤝 Volunteering
- 
-| Organization | Role |
-|---|---|
-| **IEEE MET CS** | Flutter Developer |
-| **CAT Reloaded** | PR & English Trainer |
-| **CIS** | Backend Laravel Developer & Logistics |
-| **ICPC Mans** | Problem Solving Training Lvl 0 |
- 
----
 
 ## 🛠️ Skills & Tech Stack
 
