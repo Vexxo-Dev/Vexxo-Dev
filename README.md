@@ -3,7 +3,7 @@
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Full-Stack+Web+Developer;Open+Source+Contributor;Building+things+that+matter)](https://git.io/typing-svg)
-
+[![committers.top badge](https://user-badge.committers.top/egypt/Vexxo-Dev.svg)](https://user-badge.committers.top/egypt/Vexxo-Dev)
 </div>
 
 <div align="left">
