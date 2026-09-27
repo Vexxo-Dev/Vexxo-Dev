@@ -8,8 +8,8 @@
 <div align="left">
 
 [![Typing SVG](https://komarev.com/ghpvc/?username=Vexxo-Dev)](https://git.io/typing-svg)
-[![committers.top badge](https://user-badge.committers.top/egypt/Vexxo-Dev.svg)](https://user-badge.committers.top/egypt/Vexxo-Dev)
-
+<!-- [![committers.top badge](https://user-badge.committers.top/egypt/Vexxo-Dev.svg)](https://user-badge.committers.top/egypt/Vexxo-Dev)
+-->
 </div>
 
 ## About Me
